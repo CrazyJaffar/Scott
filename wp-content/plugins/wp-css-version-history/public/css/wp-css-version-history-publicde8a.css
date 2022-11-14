@@ -1,0 +1,42 @@
+.avble_parts_sec:after {
+	background-image: linear-gradient( rgba(0,0,0,1.7), rgba(0,0,0,0.7) ), url(../../../../uploads/2018/12/000000040q.jpg);
+}
+.search_sec:after{
+	background-image: linear-gradient(-90deg, rgba(255, 255, 255, -0.5), rgba(255, 255, 255) ), url(../../../../uploads/2018/12/engines.jpg);
+}
+.warranties_sec{
+background-image: linear-gradient(-90deg, rgba(255, 255, 255, -0.5), rgba(255, 255, 255) ), url(../../../../uploads/2018/12/engines.jpg);
+}
+h2.shadowed {
+	text-shadow: 2px 2px 2px #fff;
+}
+h6.buzzslogan{
+	text-shadow: 2px 2px 2px #fff;
+}
+#post-624 h3{
+	
+	font-size: 20px;
+}
+#post-624 h4{
+	font-size: 16px;
+	font-weight: normal;
+}
+#post-624 h5{
+	font-size: 14px;
+	font-weight: normal;
+}
+#post-624 p{
+	font-size:18px;
+	line-height: 0px;
+	color: #fff;
+	font-weight: normal;
+}
+.inner_pages_content a {color: #2a2a2a;}
+.inner_pages_content a:hover {color: #ffe802;}
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
+    background-color: #FFBE00;
+    border-color: #FFBE00;
+    color: #ffffff;
+}
